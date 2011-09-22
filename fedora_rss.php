@@ -1,6 +1,6 @@
 <?php
 
-require_once('/home/islandora/Stomp.php');
+require_once('Stomp/Stomp.php');
 $conn = new Stomp("tcp://localhost:61613");
 $file = 'fedora_rss.xml';
 echo "connecting....";

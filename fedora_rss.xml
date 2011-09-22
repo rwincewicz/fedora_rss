@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="2.0">
+<channel>
+<title>New fedora images</title>
+<item>
+<title>demo:58</title>
+<link>http://192.168.56.103/fedora/repository/demo:58</link>
+<guid>http://192.168.56.103/fedora/repository/demo:58</guid>
+<description>
+<![CDATA[<img src="http://192.168.56.103/fedora/repository/demo:58/FULL_SIZE" />]]>
+</description>
+<pubDate>Thu, 22 Sep 2011 10:09:11 -0300</pubDate>
+</item>
+</channel>
+</rss>
