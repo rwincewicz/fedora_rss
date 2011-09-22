@@ -1,0 +1,1 @@
+This is a simple php script that listens to the JMS queue of a fedora server and writes any newly ingested object to an RSS feed.
